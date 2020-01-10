@@ -8,3 +8,7 @@ This is an sample readme file for our GitHub Example repo. We're learning Markdo
 
 ## Link Example
 [CodeTime](https://www.codetime.io)
+
+1. Item One
+2. Item Two
+3. Item Three
